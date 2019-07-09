@@ -1,4 +1,7 @@
-''' github.com/codrkai
+'''
+Tutorial 01 - Variables, Strings, Print, Input, If Else
+github.com/codrkai
+
 this is a comment using single quotes
 it requires three single quotes
 and it allows comments on mutiple lines
