@@ -1,4 +1,4 @@
-'''
+''' github.com/codrkai
 this is a comment using single quotes
 it requires three single quotes
 and it allows comments on mutiple lines
@@ -6,7 +6,7 @@ and it allows comments on mutiple lines
 
 """
 this is another comment but using three double quotes
-also a multiline comment
+and is also a multiline comment
 """
 
 # How to declare variables
@@ -63,5 +63,5 @@ print(total)
 
 
 '''
-www.youtube.com/codrkai
+www.github.com/codrkai
 '''
